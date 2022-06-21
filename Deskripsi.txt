@@ -1,0 +1,4 @@
+1301160412 - Muhammad Rayhan Natadimadja : Membuat Shopping cart (add)
+1301164180 - Putu Egha Wikanadipha: Membuat Contact Us
+1301164377 - Ilham Alif Nurfaidzi: Membuat registrasi
+1301164107 - Rifqy Nurhalim: Membuat Shopping Cart (delete)
